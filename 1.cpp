@@ -11,6 +11,7 @@ int main(){
         sum+=arr[i];
     }
     int avg = sum/5;
+    cout<<"printing the average"<<endl;
     cout<<avg<<endl;
     return 0;
 }
